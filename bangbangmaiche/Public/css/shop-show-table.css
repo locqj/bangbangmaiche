@@ -1,0 +1,11 @@
+
+table td.t{
+	width:20px;
+}
+table td.t1{
+	max-width:120px;
+	/*color:blue;*/
+};
+tr td.tt{
+	max-width:230px;
+}

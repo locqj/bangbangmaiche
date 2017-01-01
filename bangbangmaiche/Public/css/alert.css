@@ -1,0 +1,112 @@
+
+/* 修改lin */
+.alert,
+.alertmap,
+.alertmoney{
+	width: 100%;
+	height:150%;
+	position: absolute;
+	top:0;
+	left:0;
+	background:rgba(80,80,80,0.8);
+}
+
+.alert-context,
+.alert-mapcontext,
+.alert-moneycontext{
+	width: 38%;
+	/*padding:10px 35%;*/
+	position: fixed;
+	/*border:1px solid red;*/
+	margin:150px 30% 10px;
+	background-color: #fff;
+	border:1px solid #eee;
+	border-radius: 12px;
+	z-index: 9999;
+	padding-bottom:10px;
+}
+ 
+.alert-top{
+	width: 100%;
+	/*height:40px;*/
+	padding:10px 0 10px 0;
+	margin:0 auto 10px;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom:1px solid #eee;
+}
+.alert-top-left{
+	width: 88%;
+	margin-left:2%;
+	display: inline-block;
+}
+.alert i,
+.alertmap i{
+	width: 5%;
+}
+.alert-bottom{
+	width: 80%;
+	margin:0 auto;
+}
+ .alert-bottom>div{
+	margin:20px auto;
+	height:30px;
+	text-align: center;
+}
+ .alert-bottom span{
+	display: inline-block;
+	width: 20%;
+	height:30px;
+}
+  .alert-bottom input{
+	width: 60%;
+	height:30px;
+}
+.alert input[type='submit'],
+.alertmap input[type='submit'],
+.alertmoney input[type='submit']{
+	width: 130px;
+	height:40px;
+	color:#fff;
+	background-color: #f1861c;
+	border-radius: 12px;
+	font-size: 20px;
+
+}
+::-webkit-input-placeholder{
+	font-size: 14px;
+	padding-left:5px;
+}
+/*end 修改lin*/
+
+
+
+/*添加城市地图弹出框*/
+.flf{
+	width: 20%;
+	padding:5px 0;
+	font-size: 16px;
+	margin:5px 0;
+	text-align: right;
+	display: inline-block;
+}
+.lrg{
+	width: 60%;
+	padding:5px 0;
+	display: inline-block;
+}
+.lrg input{
+	width: 95%;
+	height:20px;
+}
+.lrg button{
+	width: 100px;
+	height:30px;
+	color:#333;
+	background-color: #DDFFDD;
+	border-radius: 12px;
+}
+.ftijiao {
+	text-align: center;
+	margin:10px auto;
+}

@@ -1,0 +1,86 @@
+form{
+	width: 80%;
+	margin:20px auto;
+	text-align: center;
+}
+form>div{
+	margin:20px 0;
+	font-size: 18px;
+}
+form span{
+	width: 15%;
+	display: inline-block;
+	margin-right:20px;
+	text-align: right;
+	vertical-align: top;
+}
+form input[type='text']{
+	width: 60%;
+	/*font-size:16px;*/
+	padding:2px 0;
+	/*height:35px;*/
+	display: inline-block;
+	
+}
+form input[type='file']{
+	width: 60%;
+	display: inline-block;
+	/*margin-left: 20px;*/
+}
+form input[type='submit']{
+	width: 140px;
+	height:40px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: bold;
+	background-color: #F08619;
+	border-radius: 12px;
+	margin:10px 0;
+}
+.gcomment{
+	width: 100%;
+	height:85px;
+}
+::-webkit-input-placeholder{
+        font-size: 12px;
+        padding-left:5px;
+    }
+
+.cimag input[type='file']{
+	margin:10px 0;
+	width:40%;
+}
+.cimag img{
+	width:100px;
+	height:100px;
+	display: inline-block;
+	border:1px solid #f1861c;
+}
+.cimag .cdelet{
+	width: 50px;
+	height:25px;
+	border-radius: 5px;
+	color:#eee;
+	background-color: #999;
+}
+/*首页，点击添加图片的的样式*/
+
+.imag input[type='file']{
+	margin:10px 0;
+	width:40%;
+}
+.imag img{
+	width:100px;
+	height:100px;
+	display: inline-block;
+	border:1px solid #f1861c;
+}
+.imag .delet{
+	width: 50px;
+	height:28px;
+	margin-left: 10px;
+	border:1px solid #ccc;
+	color: #333;
+	background-color: #eee;
+	border-radius: 12px;
+}

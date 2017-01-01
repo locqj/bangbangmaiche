@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding:0;
+	list-style-type: none;
+	text-decoration: none;
+	outline: none;
+	color:#333;
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float: right;
+}
+.clear{
+	clear:both;
+}
+a{
+	color:#333;
+}
+.whole-context{
+	width: 90%;
+	padding:100px 5% 0;
+}
+#two{
+	color: #FBCC11;
+	font-weight: bolder;
+}
+
+/*分页的样式*/
+
+.pages a{
+	width: 20px;
+	display: inline-block;
+}
+.pages span{
+	width: 20px;
+	font-weight: bold;
+	display: inline-block;
+
+}
+.tiaozhuan{
+	display: inline-block;
+	width: 30px;
+	height:20px;
+	border:1px solid #ddd;
+	background:  #eee;
+	border-radius: 12px;
+}

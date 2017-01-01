@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>测试页</title>
+</head>
+<body>
+<!-- 底部的页码 -->
+	  $page->setConfig('theme','<div class="pagination">
+            <span style="float:left">共<span class="totaljilu" style="color:#353E43;font-weight:bold;"> %totalRow%</span> %header%  </span>
+            <span class="nowpage"> 当前%nowPage%/%totalPage% 页 </span>     
+            <div style=" float:right"> 
+                <span class="prenext"> %upPage%  </span>
+                <span class="prenext">%downPage% </span>
+                <span class="info">跳转到<input name="page" style="border:1px solid #ccc;width:30px;" type="text" id="z">页
+                    <a class="tiaozhuan" href="http://xwj.565tech.com/Ucar/index.php?m=Activity&a=showactivity&p=">Go</a>
+                </span>
+            </div>
+            </div>');
+
+</body>
+</html>

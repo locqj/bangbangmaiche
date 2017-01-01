@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>后台管理系统</title>
+	<meta name='viewport' content="width=device-width,initial-scale=1.0">
+	<script src='http://code.jquery.com/jquery-1.4.1.min.js'></script>
+	<!-- <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src='http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js'></script> -->
+	<script src="http://cdn.static.runoob.com/libs/angular.js/1.4.6/angular.min.js"></script>
+
+	<link rel="stylesheet" href="public/public.css">
+	<script src='public/head/head.js'></script>
+	<link rel="stylesheet" href="public/head/head.css">
+	<link rel="stylesheet" href="css/login.css">
+</head>
+<body ng-app='myApp' ng-controller='myCtrl'>
+	<div class="head">
+		<div class="content">
+			<div class="head-left float-left">
+				<div class="image"><img src="img/logo.jpg" alt="公司logo"></div>
+				<h2 class="cname">帮帮买车后台管理系统</h2>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="login">
+		<div>
+			<span><b>用户名</b></span>
+			<input type="text" placeholder="请输入用户名">
+		</div>
+		<div>
+			<span><b>密&nbsp;码</b></span>
+			<input type="password" placeholder="请输入密码">
+		</div>
+		<div>
+			<span></span>
+			<input type="checkbox">记住密码
+		</div>
+		<div><span></span><button>登&nbsp;&nbsp;录</button></div>
+	</div>
+	<script>
+		$(function(){
+			$('button').click(function(){
+				window.location.href='html/index.html';
+			})
+		})
+	</script>
+</body>
+</html>

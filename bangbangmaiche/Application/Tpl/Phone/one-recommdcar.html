@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=0,minimum-scale=1.0,user-scalable=no">
+	<script src='./wechatpublic/js/jquery-1.4.2.min.js'></script>
+	<script src='./wechatpublic/js/angular.min.js'></script>
+	<title>帮帮买车之提供车源</title>
+	<link rel="stylesheet" href="./wechatpublic/css/public.css">
+	<script src='./wechatpublic/js/header.js'></script>
+	<link rel="stylesheet" href="./wechatpublic/css/form.css">
+	<link rel="stylesheet" href="./wechatpublic/css/shopmall.css">
+</head>
+<body ng-app='myapp' ng-controller='myctrl' style="background:url(./wechatpublic/img/bg1.jpg) right top">
+	<!-- <div ng-include=" 'header.html' "></div> -->
+	<div class="container">
+		<div class="context">
+			<p class="top-title">提供的车源信息</p>
+			<form action="http://xwj.565tech.com/Ucar/index.php?m=Phone&a=sub_carhave" method='post'>
+				<input type="text" name='openid' value="{$openid}" style='display:none'>
+
+				<div class="carsce">
+					<span ><label>*</label>汽车来源:</span>
+					<input type="text" name='source' placeholder="请输入4s店名称">
+				</div>
+				<div class="carsce">
+					<span ><label>*</label>品牌车型:</span> 
+					<input type="text" name='main' placeholder="请输入品牌车型">
+				</div>
+				<div class="carsce">
+					<span  ><label>*</label>统一指导价:</span>
+					<input type="text" name='normalprice'  placeholder="请输入统一指导价">
+				</div>
+				<div class="carsce">
+					<span  ><label>*</label>本店底价:</span>
+					<input type="text"  name='lowprice' placeholder="请输入本店底价">	
+				</div>
+				<div class="carsce">
+					<span   ><label style="visibility:hidden">*</label>联系方式:</span>
+					<input type="tel" name='phone' placeholder="请输入联系方式">
+				</div>
+				<div class="sub">
+					<button type="submit">提交</button>
+					<!-- <input type="submit"> -->
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

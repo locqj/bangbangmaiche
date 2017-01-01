@@ -1,0 +1,209 @@
+/*
+CSS Reset
+http://meyerweb.com/eric/tools/css/reset/
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* particleground demo */
+
+* { 
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: #000;
+  /*font-family: 'Montserrat', sans-serif;*/
+  color: #fff;
+  line-height: 1.3;
+  -webkit-font-smoothing: antialiased;
+}
+
+#particles {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+/*自己添加*/
+.intro {
+  position: absolute;
+  left: 0;
+  top: 45%;
+  padding: 0 20px;
+  width: 100%;
+  text-align: center;
+}
+.intro-context{
+ /*width:29%;*/
+ width:40%;
+ height:100%;margin:0 auto; background-color:rgba(30,30,30,0.5);
+ border-radius:12px;padding-top:18%;padding-bottom: 6%;
+}
+.bbtop{
+  width:100%;height:50px;line-height:50px;text-align:center; margin-top:10px;
+  padding-top:10px;
+}
+.bbtop h2{
+  /*color:#5CBDAA;*/
+  color: #74EB7C;
+  font-size:32px;font-weight: bolder;
+  /*font-family:serif;*/
+}
+.bbmiddle{
+  margin:7px 15% 0; padding:15px 20px;
+}
+.bbmiddle img{
+  width:80%;
+  margin-top:10px;display:inline-block;
+}
+.bbtip{
+  width:100%; margin:0 auto 30px;  padding-bottom:20px;
+}
+.bbtip p{
+  font-size:12px; color:#eee;
+}
+.bbbottom{
+  padding-bottom:22%;
+}
+.bbbottom p.jj{
+  display: inline-block;
+  margin-top:20px;
+  color:#74EB7C;
+  font-size:22px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+.bbbottom p.jjcontent{
+  font-size:14px;
+  /*margin-top:20px;*/
+  /*color:#D5E34A;*/
+  /*color:#f1861c;*/
+  color: #939395;
+}
+.bbbottom span{
+  font-size:12px;
+  /*color:#eee;*/
+  color:#939395;
+}
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+ .intro-context{
+    width: 30%;
+    padding-top:55%;padding-bottom: 45%;
+  }
+  .bbmiddle{
+    padding:0;
+  }
+  .bbtop h2{
+    font-size: 34px;
+  }
+  .bbtip p{
+    font-size:10px;
+  }
+  .bbbottom p:first-child{
+    margin-top:10px;
+    font-size:20px;
+  }
+  .bbbottom p:last-child{
+    font-size:16px;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+ .intro-context{
+    width: 45%;
+    padding-top:55%;padding-bottom: 45%;
+  }
+  .bbmiddle{
+    padding:0;
+  }
+  .bbtop h2{
+    font-size: 26px;
+  }
+  .bbtip p{
+    font-size:10px;
+  }
+  .bbbottom p:first-child{
+    margin-top:10px;
+    font-size:20px;
+  }
+  .bbbottom p:last-child{
+    font-size:14px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .intro-context{
+    width: 45%;
+    padding-top:55%;padding-bottom: 45%;
+  }
+  .bbmiddle{
+    padding:0;
+  }
+  .bbtop h2{
+    font-size: 24px;
+  }
+  .bbtip p{
+    font-size:10px;
+  }
+  .bbbottom p:first-child{
+    margin-top:10px;
+    font-size:16px;
+  }
+  .bbbottom p:last-child{
+    font-size:12px;
+  }
+}

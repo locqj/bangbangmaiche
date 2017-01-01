@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>后台管理系统</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=0,minimum-scale=1.0,user-scalable=no">
+	<script src='http://code.jquery.com/jquery-1.4.1.min.js'></script>
+	<script src="http://cdn.static.runoob.com/libs/angular.js/1.4.6/angular.min.js"></script>
+
+	<link rel="stylesheet" href="./Public/public/public.css">
+	<link rel="stylesheet" href="./Public/public/head/head.css">
+	<link rel="stylesheet" href="./Public/css/login.css">
+
+	<script src='./Public/public/head/head.js'></script>
+	<style>
+		::-webkit-input-placeholder{
+        font-size: 14px;
+        padding-left:5px;
+    }
+	</style>
+
+</head>
+<body ng-app='myApp' ng-controller='myCtrl'>
+	<div class="head">
+		<div class="content">
+			<div class="head-left float-left">
+				<div class="image"><img src="./Public/img/logo.jpg" alt="公司logo"></div>
+				<h2 class="cname">帮帮买车后台管理系统</h2>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<form action="{:U('Admin/admin')}" method='post'>
+	<div class="login">
+		<div>
+			<span><b>用户名</b></span>
+			<input type="text" name='username' placeholder="请输入用户名" value="<?php echo $_COOKIE['username'];?>">
+		</div>
+		<div>
+			<span><b>密&nbsp;码</b></span>
+			<input type="password" name='pwd' placeholder="请输入密码" value="<?php echo $_COOKIE['pwd']?>">
+		</div>
+		<div style='margin-left:230px;'>
+			<!-- <span></span>
+			<input type="checkbox">记住密码 -->
+
+ <td><?php if($_COOKIE['remember'] == 1){?><input type="checkbox" name="remember" value="1" checked><?php }else{($_COOKIE['remember'] == "")?><input type="checkbox" name="remember" value="1"><?php }?></td>
+ <td>记住用户名和密码</td>
+ </tr>
+ <tr align="center">
+		</div>
+		<div><span></span><button type='submit' >登&nbsp;&nbsp;录</button></div>
+	</div>
+	// <script>
+	// 	$(function(){
+	// 		$('button').click(function(){
+	// 			window.location.href='./Public/html/index.html';
+	// 		})
+	// 	})
+	// </script>
+</body>
+</html>

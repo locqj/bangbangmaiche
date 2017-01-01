@@ -1,0 +1,209 @@
+/*右箭头*/
+@font-face {font-family: 'iconfont';
+src: url('../ux/iconfont.eot'); /* IE9*/
+src: url('../ux/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('../ux/iconfont.woff') format('woff'), /* chrome、firefox */
+url('../ux/iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+url('../ux/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+body{
+    /*background:linear-gradient(right, rgba(0,0,0,0), rgba(255,255,255,1));*/
+    /*background-color: #efe;*/
+    /*background: rgba(238,255,238,0.4);*/
+}
+.container{
+    background-image: url('../img/bg1.jpg') no-repeat;
+}
+.search{
+    width:88%;
+    height:30px;
+    line-height: 30px;
+    margin:10px auto;
+    border:1px solid #eee;
+    border-radius: 12px;
+    padding-left: 20px;
+
+}
+.search input{
+    /*width: 100%;*/
+    border:0;
+    width:70%;
+    height:22px;
+    font-size: 16px;
+    margin-left: 10px;
+    outline: none;
+    /*border:1px solid red;*/
+    /*background: rgba(238,255,238,0.3);*/
+}
+.top{
+    width: 98%;
+    padding:10px 0;
+    margin-top: 16px;
+    border-bottom: 1px solid #edd;
+    text-align: center;
+}
+.top>div{
+    width: 30%;
+    display: inline-block;
+}
+
+ul li{
+    width: 94%;
+    margin:10px auto;
+    padding:10px 0;
+    border-bottom: 1px dashed #eee;
+}
+ul li a>div{
+    display: inline-block;
+}
+ul li img{
+    width: 100px;
+    height:60px;
+    /*border:1px solid #666;*/
+}
+.rg{
+    width:60%;
+    height:60px;
+    /*border:1px solid red;*/
+    vertical-align: top;
+
+}
+.rg p{
+    /*line-height:40px;*/
+    margin-left: 16px;
+}
+label{
+    color:#ea5857;
+    vertical-align: bottom;
+    /*line-height: 14px;*/
+}
+/*汽车详情里面的照片是固定大小*/
+.context img{
+    width: 100%;
+    /*width: 230px;
+    height:130px;*/
+    margin-bottom: 20px;
+}
+
+.bottom{
+    width: 93%;
+    position: fixed;
+    bottom:0;
+    /*border:1px solid red;*/
+    /*margin:0 auto;*/
+    margin-left: -0.5%;
+    text-align: center;
+    z-index: 8888;
+}
+.contact{
+    width: 48%;
+    height:30px;
+    line-height: 30px;
+    margin:10px auto 5px;   
+    display: inline-block;
+    background-color: #f1861c;
+    border:1px solid #ccc;
+}
+.contact a,
+.contact i{    color:#fff;}
+.sure{
+    width: 48%;
+    height:30px;
+    line-height: 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.sure a{ color:#f1861c;}
+
+
+
+/*商品细节的样式*/
+.context{
+    margin:0 auto 20px;
+}
+.context p{
+    width: 80%;
+    margin:15px auto 0;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 5px 5px 5px #ABABAD;
+}
+
+
+
+.context>div{
+    width: 80%;
+    margin:10px auto;
+    padding:10px 0 ;
+    border-bottom:1px dashed #ccc;
+}
+.context .cleft{
+    width: 36%;
+    display: inline-block; 
+    font-size: 18px;
+    vertical-align: top;
+}
+.context .ctight{
+    width: 48%;
+    display: inline-block; 
+    color:#666;
+}
+
+
+/*支付页面的样式*/
+.paydetail{
+    width: 90%;
+    margin:20px auto;
+}
+.paydetail p{
+    font-size: 20px;
+}
+.paydetail form>div{
+    width: 100%;
+    margin:20px auto; 
+    padding:10px 0;
+    border-bottom:1px dashed #eee; 
+}
+.paydetail .paylf{
+ width: 30%;
+ height:25px;
+ line-height: 25px;
+ color:#333;
+ display: inline-block; 
+ vertical-align: top;
+ text-align: right;  
+}
+.paydetail .payrg{
+    width: 60%;
+    height:25px;
+    line-height: 25px;
+    display: inline-block; 
+}
+.paydetail .payrgtextarea{
+    width: 100%;
+    /*margin-left: 10%;*/
+}
+.paydetail textarea{
+    width:80%;
+    margin-left: 12%;
+}
+.btnpay{
+    text-align: center;
+}
+input[type='button']{
+    width: 100px;
+    height:35px;
+    border-radius: 12px;
+    color:#fff;
+    background-color: #F1861C;
+    outline: none;
+}

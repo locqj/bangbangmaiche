@@ -1,0 +1,13 @@
+.luara-{position:relative;padding:0;overflow: hidden;}
+.luara- ul{padding: inherit;margin: 0;}
+.luara- ul li{display: none;padding: inherit;margin: inherit;list-style: none;}
+.luara- ul li:first-child{display:block;}
+.example{
+	margin-left: -14px;
+}
+.luara- ul li img{width: 370px;height:200px;}
+
+
+
+ 
+

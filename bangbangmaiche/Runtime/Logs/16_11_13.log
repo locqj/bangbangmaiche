@@ -1,0 +1,275 @@
+[ 2016-11-13T15:44:59+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008860s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000372s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000385s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000263s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-11-13T15:51:06+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009017s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001518s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-11-13T15:51:14+08:00 ] 49.72.93.63 /Ucar/index.php?m=Shop&a=showshopinfo
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined index: admin /home/wwwroot/default/Ucar/Application/Lib/Action/ShopAction.class.php 第 130 行.
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000777s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shopinfo` WHERE ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000124s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 0,5   [ RunTime:0.000111s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010805s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001536s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000566s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-11-13T15:51:16+08:00 ] 49.72.93.63 /Ucar/index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 37 行.
+NOTIC: [8] Undefined index: pwd /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 41 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006693s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000367s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000375s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000610s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-11-13T15:51:18+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Undefined index: admin /home/wwwroot/default/Ucar/Application/Lib/Action/AdminAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008787s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000390s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000413s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001653s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000527s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-11-13T15:51:21+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin&a=admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/default/Ucar/Application/Lib/Action/AdminAction.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.000692s ]
+SQL: SELECT * FROM `admin` WHERE ( `username` = 'root' ) LIMIT 1   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: id /home/wwwroot/default/Ucar/Runtime/Cache/404308bba34e2a9bb6ba574078dcad9e.php 第 147 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008513s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000365s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000343s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000290s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000602s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-11-13T15:51:24+08:00 ] 49.72.93.63 /Ucar/index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 37 行.
+NOTIC: [8] Undefined index: pwd /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 41 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006739s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000391s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001568s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000701s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-11-13T15:51:31+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin&a=admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/default/Ucar/Application/Lib/Action/AdminAction.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.000705s ]
+SQL: SELECT * FROM `admin` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000117s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: id /home/wwwroot/default/Ucar/Runtime/Cache/404308bba34e2a9bb6ba574078dcad9e.php 第 147 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009039s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000357s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000360s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000345s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001613s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-11-13T15:51:34+08:00 ] 49.72.93.63 /Ucar/index.php?m=Login&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 37 行.
+NOTIC: [8] Undefined index: pwd /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 41 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+NOTIC: [8] Undefined index: remember /home/wwwroot/default/Ucar/Runtime/Cache/ec7ad561f8db6671ff45d6a8165d8f07.php 第 47 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007087s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000328s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000380s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001538s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000566s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-11-13T15:51:39+08:00 ] 49.72.93.63 /Ucar/index.php?m=Admin&a=admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/default/Ucar/Application/Lib/Action/AdminAction.class.php 第 23 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.000647s ]
+SQL: SELECT * FROM `admin` WHERE ( `username` = 'root' ) LIMIT 1   [ RunTime:0.000134s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: id /home/wwwroot/default/Ucar/Runtime/Cache/404308bba34e2a9bb6ba574078dcad9e.php 第 147 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009380s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000399s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001632s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-11-13T15:51:48+08:00 ] 49.72.93.63 /Ucar/index.php?m=Shop&a=showshopinfo
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000687s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shopinfo` WHERE ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000113s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 0,5   [ RunTime:0.000110s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009925s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000339s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001498s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000520s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-11-13T15:51:48+08:00 ] 49.72.93.63 /Ucar/index.php?m=Shop&a=showmap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `baidulogo` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `baidulogo` WHERE ( `flag` = 1 )  [ RunTime:0.000132s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/Ucar/Runtime/Cache/949c4f23246a2a92a1e3c8fcfc9235b3.php 第 145 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008963s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000352s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001519s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000587s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-11-13T15:51:49+08:00 ] 49.72.93.63 /Ucar/index.php?m=Shop&a=showlunbo
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007782s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000337s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000274s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000590s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-11-13T15:51:50+08:00 ] 49.72.93.63 /Ucar/index.php?m=Shop&a=showpayorder
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/f01b0045b7f9e152de5f115ba0a6e336.php 第 136 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/Ucar/Runtime/Cache/f01b0045b7f9e152de5f115ba0a6e336.php 第 140 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009103s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000393s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000646s ]
+

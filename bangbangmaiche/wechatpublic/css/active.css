@@ -1,0 +1,157 @@
+.active{
+	width: 92%;
+	/*height:300px;*/
+	margin:10px 3%;
+	border:1px solid red;
+	text-align: left;
+	padding:0 2% 10px;
+	border-radius:12px;
+	background-color: #fff;
+}
+.aname{
+	width: 100%;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top:20px;
+}
+.atime{
+	height:30px;
+	font-size: 14px;
+	color:#A9A9A9;
+	text-align: left;
+	margin-top: 10px;
+}
+.aimg{
+	width:80%;
+	/*height:40%;*/
+	padding:0 10%;
+}
+.aimg img{
+	width: 100%;
+	/*height:10%;*/
+	margin:0 auto 10px;
+	display: inline-block;
+	border:1px solid blue;
+}
+.adetial a{
+	color:#414141;
+	font-size: 15px;
+}
+/*活动推送样式结束*/
+/*最新活动  往期活动 样式*/
+/*右箭头*/
+@font-face {font-family: 'iconfont';
+    src: url('../ux/iconfont.eot'); /* IE9*/
+    src: url('../ux/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../ux/iconfont.woff') format('woff'), /* chrome、firefox */
+    url('../ux/iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../ux/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+    color: #999;
+  }
+.record{
+  width: 98%;
+  /*border:1px solid blue;*/
+}
+.re-top{
+  width: 94%;
+  height:50px;
+  line-height: 50px;
+  /*margin:10px auto;*/
+  text-align: center;
+  position: fixed; 
+  margin:0 auto;
+  /*top:20px;*/
+  /*top:10px;*/
+  top:0;
+
+  padding-top:10px;
+  font-size: 22px;
+  z-index: 9999;
+  opacity: 1;  
+  background-color:#f3f3f3;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.re-top div{
+  width: 49%;
+  margin:0;
+  padding:0;
+  display: inline-block;
+  /*font-weight: bolder;*/
+}
+.re-middle{
+  /*距离顶部的距离*/
+  width: 92%;
+  margin: 70px auto 0; 
+  z-index: 0;
+}
+.re-middle ul li{
+  width: 100%;
+  height:90px;
+  text-align: left;
+  margin:15px auto 0;
+  display: inline-block;
+  border-bottom: 1px dotted #999;
+  /*border-bottom:1px dashed #eff; */
+  /*border: 1px solid red;*/
+}
+.image{
+  /*width: 20%;*/
+  display: inline-block;
+}
+/*图片样式===============活动页面，图片设置固定宽高*/
+.image img{
+  width: 100px;
+  height:80px;
+  /*border:1px solid red;*/
+}
+.lf{
+  width: 60%;
+
+  display: inline-block; 
+
+}
+.lf>div{
+  height:35px;
+  /*line-height: 35px;*/
+  vertical-align: top;
+  margin-bottom:3px;
+}
+.lf span{
+  display: inline-block;
+  margin-left: 5px;
+  /*color:red;*/
+}
+.rg{
+  width: 3%;
+  text-align: top;
+  display: inline-block;  
+ /*color:red;*/
+}
+.rg i{
+  /*height:30px;*/
+  /*padding-top: 15px;*/
+
+  vertical-align: top;
+  display: inline-block;
+  /*line-height: 50px;*/
+  /*text-align: bottom;*/
+  margin-top:-30px;
+  /*border: 1px solid blue;*/
+}
+.count{
+  width: 30%;
+  margin-left:68%; 
+  margin-top:20px;
+  /*color: #5ff;*/
+  color:#333;
+  display: inline-block;
+}
+.num{color: #333;}

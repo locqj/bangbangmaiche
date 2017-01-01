@@ -1,0 +1,47 @@
+
+.head{
+	width: 100%;
+	background-color: #eee;
+	padding:8px 0;
+	position: fixed;
+	z-index: 9999;
+	top:0;
+	/*高度大概84px*/
+}
+.content{
+	width: 94%;
+	padding:0 0 0 5%;
+}
+.head-left{
+	width: 60%;
+	display: inline-block; 
+}
+.head-right{
+	width:39.5%;
+	text-align: bottom;
+	display: inline-block;
+}
+.image{
+	width:8%;vertical-align: middle;
+	display: inline-block;  
+}
+h2.cname{
+	display: inline-block;
+	padding-top:15px;
+}
+.image img{
+	width: 100%;
+	border-radius: 50%; 
+}
+.head-right div{
+	display: inline-block;
+	margin-top:25px;
+}
+.head-right>div:first-child{
+	margin-left:40%;
+}
+
+.time{
+	margin-top:5px;
+	margin-left: 52%;	
+}

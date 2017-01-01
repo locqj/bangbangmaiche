@@ -1,0 +1,13 @@
+/*shop-show页面的table*/
+.shop-show-table{
+	width: 100%;
+
+}
+.shop-show-table tr{
+	width: 100%;
+}
+.shop-show-table input{
+	width: 100%;
+	border:0;
+	/*readOnly:true;*/
+}

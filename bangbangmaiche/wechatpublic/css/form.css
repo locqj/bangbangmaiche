@@ -1,0 +1,117 @@
+body{
+	/*background-color: #eee;*/
+}
+.container{
+	width: 94%;
+	margin:20px auto 0;
+	/*padding:10px 0 0 0;*/
+}
+span.title{
+	/*margin-left: 4%;*/
+	display: inline-block;
+	font-size: 24px;
+	font-weight: bolder;
+	margin-bottom:10px;
+}
+form{
+	width: 94%;
+	padding:10px 3%;
+	margin:10px auto;
+	background-color: #fff;
+	border-radius: 8px;
+}
+
+form>div{
+	width: 90%;
+	margin:20px auto; 
+	font-weight: bold;
+}
+form span.left{
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 10px;
+	vertical-align: top;
+	font-size: 18px;
+}
+form input[type='text'],
+form input[type='tel']{
+	width: 90%;
+	margin:0 2%;
+	/*font-size: 18px;*/
+	height:30px;
+	line-height: 30px;
+	opacity: 0.8;
+}
+form textarea{
+	width: 85%;
+	margin-left: 5%;
+	height:40px;
+}
+form .sub{
+	width: 100%;
+	text-align: center;
+}
+form button[type='submit']{
+	width: 150px;
+	height:40px;
+	color:#fff;
+	font-size: 18px;
+	background-color:#F08619;
+	border-radius: 12px;
+	margin:0 auto;
+	display: inline-block;
+}
+
+form input[type='submit']{
+	width: 150px;
+	height:40px;
+	color:#fff;
+	font-size: 18px;
+	background-color:#F08619;
+	border-radius: 12px;
+	margin:0 auto;
+	display: inline-block;
+}
+
+form.change .left{
+	width:32%;
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: top;
+	font-size: 18px; 
+	text-align: right;
+}
+form.change input[type='text']{
+	width:58%;
+	margin-left:0;
+	/*height:30px;*/
+	opacity: 0.8; 
+}
+form.change textarea{
+	width: 58%;
+	margin-left: 0;
+}
+
+/*车源里面的span和input放在一行里面*/
+.carsce{
+	width: 95%;
+}
+.carsce>span{
+	width: 37%;
+	height:30px;
+	line-height: 30px;
+	margin-top:5px;
+	display: inline-block;
+	/*margin-bottom: 10px;*/
+	vertical-align: top;
+	font-size: 18px;
+	text-align: left;
+	/*margin-right:5px;*/
+}
+.carsce>input[type='text'],
+.carsce>input[type='tel']{
+	/*width: 55%;*/
+	width:55%;
+	height:30px;
+	opacity: 0.8;
+}

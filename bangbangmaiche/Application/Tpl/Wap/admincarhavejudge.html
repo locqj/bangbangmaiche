@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th>carhave_name</th>
+			<th>name</th>
+			<th>phone</th>
+			<th>carinfo</th>
+			<th>price</th>
+			<th>time</th>
+			<th>评价1</th>
+			<th>评价2</th>
+			<th>评价3</th>		
+		</tr>
+		<foreach name='data' item='v'>
+			<tr>
+				<td>{$v.carhave_name}</td>
+				<td>{$v.name}</td>
+				<td>{$v.phone}</td>
+				<td>{$v.carinfo}</td>
+				<td>{$v.price}</td>
+				<td>{$v.time|date='y-m-d H:i',###}</td>
+				<td><a href="{:U('Wap/admincarhavejudgescount',array('id'=>$v['id'],'content'=>'good'))}">好</a></td>
+				<td><a href="{:U('Wap/admincarhavejudgescount',array('id'=>$v['id'],'content'=>'ok'))}" >中</a></td/>
+				<td><a href="{:U('Wap/admincarhavejudgescount',array('id'=>$v['id'],'content'=>'bad'))}">差</a></td>
+				<!-- <td><a href="{:U('MsgManage/delete',array('id'=>$v['id']))}">删除</a></td> -->
+			</tr>
+		</foreach>
+		<tr>
+			<td colspan='5' align='center'>
+				{$page}
+			</td>
+		</tr>	
+	</table>
+	
+</body>
+</html>

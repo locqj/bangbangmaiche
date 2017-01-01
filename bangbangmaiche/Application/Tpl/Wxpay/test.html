@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript">
+       $(function(){
+       	var name=$('.username').val();
+       	var money=$('.money').val();
+              
+              
+            var C1=window.location.href.split("id=")[1]; //得到id=楼主
+             //alert(C1);
+       	
+       
+       	$('button a').click(function(){
+       		var href=$('button a').attr('href');
+       		href = href+ '&id1='+name+'&id2='+money+'&id3='+C1;
+       		$('a').attr('href',href);
+       		alert(href);
+       	});
+       	})
+       		
+     
+	</script>
+</head>
+<body>
+	 
+	 姓名:<input name="username" type="text" class='username' value='dsdfds'/>	
+	 金额:<input name="pass" type="number" class='money' value='11'/>	
+	       <button>
+	         <a href="http://xwj.565tech.com/Ucar/index.php?m=Wxpay&a=index">submit</a> 
+	         
+	       </button>
+
+</body>
+</html>

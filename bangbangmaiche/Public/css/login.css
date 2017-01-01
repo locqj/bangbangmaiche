@@ -1,0 +1,35 @@
+body{
+	width: 100%;
+}
+.login{
+	width: 50%;
+	margin:160px auto 0;border:1px solid #666;
+}
+.login div{
+	width: 60%;
+	margin:40px auto;
+}
+.login span{
+	display: inline-block;
+	width: 19%;
+	font-size: 20px;
+}
+.login input[type='text'],
+.login input[type='password']{
+	width: 70%;
+	height:30px;
+	font-size: 20px;
+}
+.login input[type='checkbox']{
+	margin:-20px auto;
+	display: inline-block;
+	border:1px solid red;
+}
+button{
+	width: 40%;
+	height:40px;
+	border-radius: 12px;
+	background-color:#ea5857;
+	color:#fff;
+	font-size: 20px;
+}

@@ -1,0 +1,422 @@
+[ 2016-11-23T16:45:19+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-11-23T16:45:21+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041QkgUx1kq3Yd0jHnVx1aPBUx1QkgUL&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000808s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161123164521','139988450220161123164520','123456789','NATIVE') [ RunTime:0.049531s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007069s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000375s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001572s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-23T16:45:28+08:00 ] 180.153.214.197 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-11-23T16:45:31+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-11-23T16:45:32+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001T9HUc2egP2B0YOkXc2LKkUc2T9HUs&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000854s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161123164532','139988450220161123164532','123456789','NATIVE') [ RunTime:0.031419s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006731s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000347s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000302s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001593s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000568s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-11-23T16:45:36+08:00 ] 101.226.66.181 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-11-23T16:47:56+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-11-23T16:47:57+08:00 ] 121.236.130.2 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001eXBjG1wgQl40lYFnG1x3PjG1eXBj0&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000812s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161123164757','139988450220161123164757') [ RunTime:0.039994s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: url2 /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 53 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006878s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000365s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001665s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000553s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-23T17:57:57+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=showphonemap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `baidulogo` [ RunTime:0.000719s ]
+SQL: SELECT * FROM `baidulogo` WHERE ( `flag` = 1 )  [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008072s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000451s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001640s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000556s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-11-23T17:57:57+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=showphonemap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `baidulogo` [ RunTime:0.000674s ]
+SQL: SELECT * FROM `baidulogo` WHERE ( `flag` = 1 )  [ RunTime:0.000125s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007562s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000384s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000286s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001621s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-11-23T17:58:01+08:00 ] 101.226.33.218 /Ucar/index.php?m=Phoneshop&a=showphonemap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `baidulogo` [ RunTime:0.000664s ]
+SQL: SELECT * FROM `baidulogo` WHERE ( `flag` = 1 )  [ RunTime:0.000124s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007550s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000340s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001515s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000509s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-11-23T17:58:10+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=index&carsource=%E5%A4%A7%E4%BC%974s%E5%BA%97
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000712s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `comefrom` = '大众4s店' ) ORDER BY time desc  [ RunTime:0.000128s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `comefrom` = '大众4s店' ) ORDER BY price desc  [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `lunbo` [ RunTime:0.000437s ]
+SQL: SELECT * FROM `lunbo` ORDER BY time desc  [ RunTime:0.000101s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data2 /home/wwwroot/default/Ucar/Runtime/Cache/e2deee1c3857c202697f3c012079745c.php 第 82 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010598s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000340s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001526s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-11-23T17:58:20+08:00 ] 101.226.66.193 /Ucar/index.php?m=Phoneshop&a=index&carsource=%E5%A4%A7%E4%BC%974s%E5%BA%97
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000812s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `comefrom` = '大众4s店' ) ORDER BY time desc  [ RunTime:0.000129s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `comefrom` = '大众4s店' ) ORDER BY price desc  [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `lunbo` [ RunTime:0.000445s ]
+SQL: SELECT * FROM `lunbo` ORDER BY time desc  [ RunTime:0.000107s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data2 /home/wwwroot/default/Ucar/Runtime/Cache/e2deee1c3857c202697f3c012079745c.php 第 82 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010909s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000348s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000307s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001598s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000588s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-11-23T17:58:22+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=showsearch&combine=%E5%A5%94%E9%A9%B0
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000717s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `combine` LIKE '%奔驰%' )  [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Phone - assumed 'Phone' /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [8] Use of undefined constant showsearch - assumed 'showsearch' /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [2] Division by zero /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 40 行.
+NOTIC: [8] Undefined variable: data1 /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 53 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009273s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000502s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000343s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001688s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000530s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-11-23T17:58:24+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=showdetail&id=$v.id
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000787s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `picture` [ RunTime:0.000511s ]
+SQL: SELECT * FROM `picture` WHERE ( `goodid` = null )  [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007404s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000353s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001517s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-11-23T17:58:30+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phoneshop&a=showdetail&id=44
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000757s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `id` = 44 ) LIMIT 1   [ RunTime:0.000149s ]
+SQL: SHOW COLUMNS FROM `picture` [ RunTime:0.000448s ]
+SQL: SELECT * FROM `picture` WHERE ( `goodid` = '61761479282304' )  [ RunTime:0.000096s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007851s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000352s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001552s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000600s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-11-23T17:58:37+08:00 ] 101.226.33.205 /Ucar/index.php?m=Phoneshop&a=showsearch&combine=%E5%A5%94%E9%A9%B0
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000743s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `flag` = 1 ) AND ( `combine` LIKE '%奔驰%' )  [ RunTime:0.000127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Phone - assumed 'Phone' /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [8] Use of undefined constant showsearch - assumed 'showsearch' /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [2] Division by zero /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 16 行.
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 40 行.
+NOTIC: [8] Undefined variable: data1 /home/wwwroot/default/Ucar/Runtime/Cache/9064bb19273cb9b0190c5c881b9a91ff.php 第 53 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009370s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000354s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001509s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000597s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-11-23T17:58:39+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phone&a=showactivity
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `activityinfo` [ RunTime:0.000705s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000125s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc  [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008503s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000368s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000288s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000648s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-11-23T17:58:42+08:00 ] 58.240.187.102 /Ucar/index.php?m=Phone&a=showlatest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `activityinfo` [ RunTime:0.000829s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000128s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005862s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000329s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001555s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000586s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-11-23T17:58:43+08:00 ] 101.226.33.223 /Ucar/index.php?m=Phoneshop&a=showdetail&id=$v.id
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000127s ]
+SQL: SHOW COLUMNS FROM `picture` [ RunTime:0.000500s ]
+SQL: SELECT * FROM `picture` WHERE ( `goodid` = null )  [ RunTime:0.000098s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007746s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000373s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000347s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000262s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001600s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000555s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-11-23T17:58:44+08:00 ] 101.226.89.122 /Ucar/index.php?m=Phoneshop&a=showdetail&id=$v.id
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000707s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000128s ]
+SQL: SHOW COLUMNS FROM `picture` [ RunTime:0.000565s ]
+SQL: SELECT * FROM `picture` WHERE ( `goodid` = null )  [ RunTime:0.000108s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007437s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000332s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001501s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000557s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-11-23T17:58:47+08:00 ] 180.153.206.21 /Ucar/index.php?m=Phoneshop&a=showdetail&id=44
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SHOW COLUMNS FROM `shopinfo` [ RunTime:0.000759s ]
+SQL: SELECT * FROM `shopinfo` WHERE ( `id` = 44 ) LIMIT 1   [ RunTime:0.000177s ]
+SQL: SHOW COLUMNS FROM `picture` [ RunTime:0.000607s ]
+SQL: SELECT * FROM `picture` WHERE ( `goodid` = '61761479282304' )  [ RunTime:0.000097s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007399s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000257s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001538s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-23T17:58:49+08:00 ] 101.226.89.123 /Ucar/index.php?m=Phone&a=showactivity
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `activityinfo` [ RunTime:0.000768s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000158s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc  [ RunTime:0.000106s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011129s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000389s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000372s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001634s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000728s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-11-23T17:58:52+08:00 ] 180.153.163.190 /Ucar/index.php?m=Phone&a=showlatest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `activityinfo` [ RunTime:0.000680s ]
+SQL: SELECT * FROM `activityinfo` WHERE ( `flag` = 1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000128s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005528s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000608s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000347s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001852s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000645s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+

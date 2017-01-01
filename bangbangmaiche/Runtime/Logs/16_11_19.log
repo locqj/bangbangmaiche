@@ -1,0 +1,1186 @@
+[ 2016-11-19T10:11:16+08:00 ] 180.106.176.174 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021FmwWV1tKTfU0wZlYV1BfAWV1FmwWA&state=STATE
+ERR: 参数错误
+
+[ 2016-11-19T11:28:20+08:00 ] 180.106.176.174 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001yLKbE1bUNt20VxJeE1GsObE1yLKbj&state=STATE
+ERR: 参数错误
+
+[ 2016-11-19T11:29:18+08:00 ] 180.106.176.174 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031mOdx71r0SKQ1uDHx71Ktbx71mOdxd&state=STATE
+ERR: 参数错误
+
+[ 2016-11-19T11:57:18+08:00 ] 180.106.176.174 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041axASt0UyYud1dNaWt0E9mSt0axASp&state=STATE
+ERR: 参数错误
+
+[ 2016-11-19T16:25:25+08:00 ] 121.228.250.208 /Ucar/index.php?m=Index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `wechat_user` [ RunTime:0.000534s ]
+ERR: 1146:Table 'jx_test.wechat_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wechat_user`
+SQL: SELECT * FROM `wechat_user` LIMIT 1   [ RunTime:0.000145s ]
+ERR: 1146:Table 'jx_test.wechat_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `wechat_user` LIMIT 1  
+
+[ 2016-11-19T16:26:39+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-11-19T16:26:40+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0114vnGk11UDaj0zOSIk1MMLGk14vnGK&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000682s ]
+ERR: 1146:Table 'jx_test.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yanzhengzhifu`
+SQL: INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`Product_id`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119162640','139988450220161119162640','123456789') [ RunTime:0.000314s ]
+ERR: 1146:Table 'jx_test.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`Product_id`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119162640','139988450220161119162640','123456789')
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: jsApiParameters /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006567s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000378s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001563s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-11-19T16:27:42+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-11-19T16:27:43+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0414Gyaw1a6Scc0s43dw1ohLaw14Gyae&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000530s ]
+ERR: 1146:Table 'jx_test.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yanzhengzhifu`
+SQL: INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`Product_id`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119162743','139988450220161119162743','123456789') [ RunTime:0.000310s ]
+ERR: 1146:Table 'jx_test.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`Product_id`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119162743','139988450220161119162743','123456789')
+
+[ 2016-11-19T16:31:08+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-11-19T16:31:09+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031kjZ2i18znQy0w044i1im73i1kjZ2N&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000531s ]
+ERR: 1146:Table 'jx.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yanzhengzhifu`
+SQL: INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119163109','139988450220161119163108') [ RunTime:0.000164s ]
+ERR: 1146:Table 'jx.yanzhengzhifu' doesn't exist
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`money`,`tranMoney`,`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('1',0.01,'o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰','0','15501523654','car','常熟','100','20161119163109','139988450220161119163108')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006385s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001570s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000639s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-11-19T16:31:29+08:00 ] 121.228.250.208 /Ucar/index.php?m=Index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000692s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.000263s ]
+
+[ 2016-11-19T16:33:30+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-11-19T16:33:31+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031ZxToM1MkTL21a7ppM19k8pM1ZxTok&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000805s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119163331','139988450220161119163331') [ RunTime:0.029795s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006713s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001521s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-19T16:34:49+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-11-19T16:34:50+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011uTBr32AZVtJ04Dqr32sJsr32uTBr9&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000816s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119163450','139988450220161119163450') [ RunTime:0.019734s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007621s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000373s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000387s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000287s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001686s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000614s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-11-19T16:35:27+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+
+[ 2016-11-19T16:35:27+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031Gvq7h0LiiWA1sNo6h0Al57h0Gvq7F&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000807s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119163527','139988450220161119163527') [ RunTime:0.019684s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007224s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000374s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000254s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000659s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-11-19T16:36:31+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-11-19T16:36:32+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041DhBVZ1Ki3hY0WD6YZ1X0PVZ1DhBV7&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000819s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119163632','139988450220161119163631') [ RunTime:0.045029s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006434s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000333s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001499s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000559s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-11-19T16:37:05+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-11-19T16:37:06+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011eVp4R0lqGBa2XkK3R0rXa4R0eVp4G&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000850s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119163706','139988450220161119163705') [ RunTime:0.020407s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008287s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000377s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000346s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000574s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-11-19T16:42:56+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-11-19T16:42:56+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-11-19T16:43:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-19T16:43:08+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001d4RS60AF4SI1MkRW60MI5T60d4RS9&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000911s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119164308','139988450220161119164308') [ RunTime:0.018994s ]
+INFO: [ view_parse ] --START--
+
+[ 2016-11-19T16:44:03+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-11-19T16:44:04+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021mXHjd0N90Rw1vcGid0T6Vjd0mXHjP&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000771s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119164404','139988450220161119164404') [ RunTime:0.016914s ]
+INFO: [ view_parse ] --START--
+
+[ 2016-11-19T16:45:39+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-11-19T16:45:40+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031qieQM0n7TN62Gc7SM0TSsQM0qieQX&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000815s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119164540','139988450220161119164540') [ RunTime:0.015193s ]
+INFO: [ view_parse ] --START--
+
+[ 2016-11-19T16:48:52+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-11-19T16:48:53+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0118ui3F0WpGTg23rf5F0o2n3F08ui3m&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000823s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119164853','139988450220161119164852') [ RunTime:0.017055s ]
+INFO: [ view_parse ] --START--
+
+[ 2016-11-19T16:50:44+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-11-19T16:50:45+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011h52Ik2dR2AI0RjfJk21e0Ik2h52IM&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000865s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119165045','139988450220161119165045') [ RunTime:0.017442s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007282s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000498s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000551s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-11-19T16:52:45+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-11-19T16:52:46+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021CRCTf0pqhRz11gvVf0oEBTf0CRCTd&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000854s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119165246','139988450220161119165245') [ RunTime:0.023913s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: url2 /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 53 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006595s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000413s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001581s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119165246','139988450220161119165246') [ RunTime:0.000354s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119165246','139988450220161119165246')
+NOTIC: [8] Constant THEME_NAME already defined /home/wwwroot/default/Ucar/ThinkPHP/Lib/Core/View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined /home/wwwroot/default/Ucar/ThinkPHP/Lib/Core/View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined /home/wwwroot/default/Ucar/ThinkPHP/Lib/Core/View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002231s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.737048s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000076s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000035s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000009s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000047s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.737755s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000025s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.737444s ]
+
+[ 2016-11-19T16:54:15+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-11-19T16:54:16+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011Do8Rh2On7JF04o7Sh2z27Rh2Do8Re&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000806s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119165415','139988450220161119165415') [ RunTime:0.025994s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119165416','139988450220161119165416') [ RunTime:0.000347s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119165416','139988450220161119165416')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006797s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000355s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000367s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001575s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000665s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-11-19T17:00:35+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-11-19T17:00:37+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021aok1v0OGwve1s5f1v0jXq1v0aok11&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000768s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119170036','139988450220161119170036') [ RunTime:0.019764s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170037','139988450220161119170036') [ RunTime:0.000322s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170037','139988450220161119170036')
+ERR: 参数错误
+
+[ 2016-11-19T17:00:50+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-11-19T17:00:51+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011CcwFj08W4kl15O1Hj0OfLFj0CcwFz&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000792s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119170051','139988450220161119170051') [ RunTime:0.018220s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170051','139988450220161119170051') [ RunTime:0.000314s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170051','139988450220161119170051')
+ERR: 参数错误
+
+[ 2016-11-19T17:01:02+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-11-19T17:01:04+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011DiEt42ZiLEK0mtvu42RYot42DiEto&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000792s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119170103','139988450220161119170103') [ RunTime:0.013581s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170104','139988450220161119170103') [ RunTime:0.000315s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170104','139988450220161119170103')
+ERR: 参数错误
+
+[ 2016-11-19T17:01:19+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-11-19T17:01:20+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031RqByq1ABeLo0VY1xq15sFyq1RqByV&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000845s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119170120','139988450220161119170119') [ RunTime:0.015861s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170120','139988450220161119170120') [ RunTime:0.000310s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170120','139988450220161119170120')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007097s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000361s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000368s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000255s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001540s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-11-19T17:02:48+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-11-19T17:02:49+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041iES8a1S4TLT1vSa7a14HR8a1iES8B&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000824s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119170249','139988450220161119170248') [ RunTime:0.016712s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170249','139988450220161119170249') [ RunTime:0.000327s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170249','139988450220161119170249')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007412s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000343s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000385s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000254s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000586s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-11-19T17:07:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-11-19T17:07:09+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021y9Lq62tnUBM0DX7u62rR1r62y9Lqd&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000875s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119170708','139988450220161119170708') [ RunTime:0.017184s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170709','139988450220161119170708') [ RunTime:0.000322s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170709','139988450220161119170708')
+ERR: 参数错误
+
+[ 2016-11-19T17:07:17+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-11-19T17:07:19+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021Jf3iX0lmZEY19TZhX0VPliX0Jf3i5&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000805s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119170718','139988450220161119170718') [ RunTime:0.012853s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170719','139988450220161119170718') [ RunTime:0.000327s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119170719','139988450220161119170718')
+ERR: 参数错误
+
+[ 2016-11-19T17:10:36+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-11-19T17:10:37+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021CH38d2qRsqB08Ip6d2OWl8d2CH389&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000888s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119171037','139988450220161119171036') [ RunTime:0.017159s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119171037','139988450220161119171037') [ RunTime:0.000343s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119171037','139988450220161119171037')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006969s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000332s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000299s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001613s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-19T17:11:56+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-19T17:11:57+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031mjyiz0i9NMi1hvwhz0OjMiz0mjyiM&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000806s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119171157','139988450220161119171156') [ RunTime:0.016120s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119171157','139988450220161119171157') [ RunTime:0.000315s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119171157','139988450220161119171157')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007058s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000392s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000377s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001659s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000718s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-11-19T18:33:58+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-11-19T18:33:59+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021nn0C31bMZeN1TSCD31xQHB31nn0Ce&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000790s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119183359','139988450220161119183358') [ RunTime:0.054631s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119183359','139988450220161119183359') [ RunTime:0.000346s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119183359','139988450220161119183359')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006670s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000352s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000361s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001541s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000547s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-11-19T18:36:47+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-11-19T18:36:49+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0417LIa621YOlM0Gxva62nBHa627LIar&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000844s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119183648','139988450220161119183648') [ RunTime:0.018256s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119183649','139988450220161119183648','NATIVE') [ RunTime:0.000310s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119183649','139988450220161119183648','NATIVE')
+ERR: 参数错误
+
+[ 2016-11-19T18:37:06+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-11-19T18:37:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041nbqRC1FHY010eFvQC1UraRC1nbqRw&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000816s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119183707','139988450220161119183706','NATIVE') [ RunTime:0.015315s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007168s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001551s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000609s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-11-19T18:37:28+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-11-19T18:37:29+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0415I5vR15o7S718qNvR1oZvvR15I5v-&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000856s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119183729','139988450220161119183728','NATIVE') [ RunTime:0.080205s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007353s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000257s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-11-19T18:38:36+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-11-19T18:38:37+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021MjMyG0qclgi28wWvG0jfWyG0MjMyE&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.001008s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119183837','139988450220161119183837','123456789','NATIVE') [ RunTime:0.019974s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006549s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000355s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001514s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000578s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-11-19T18:40:50+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-11-19T18:40:52+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021lyU8I0oplZj21NK8I04jL8I0lyU8V&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000841s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184051','139988450220161119184051') [ RunTime:0.024664s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184052','139988450220161119184051','123456789','NATIVE') [ RunTime:0.000359s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184052','139988450220161119184051','123456789','NATIVE')
+ERR: 参数错误
+
+[ 2016-11-19T18:41:20+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-11-19T18:41:22+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011E6Wxc1bRJ3t0GJkyc1BLiyc1E6Wxp&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000801s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184121','139988450220161119184121') [ RunTime:0.019551s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+NOTIC: [8] Undefined index: code_url /home/wwwroot/default/Ucar/Application/Lib/Action/WxpayAction.class.php 第 39 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184122','139988450220161119184121','123456789','NATIVE') [ RunTime:0.000340s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184122','139988450220161119184121','123456789','NATIVE')
+ERR: 参数错误
+
+[ 2016-11-19T18:41:35+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-11-19T18:41:36+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001fRhGc2mc8HA0efyIc2eSSFc2fRhGm&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000780s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184136','139988450220161119184135') [ RunTime:0.041717s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184136','139988450220161119184136','123456789','NATIVE') [ RunTime:0.000336s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184136','139988450220161119184136','123456789','NATIVE')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007095s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000383s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001577s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000892s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-11-19T18:43:17+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-11-19T18:43:18+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041DWPox12yxRd0Ydnnx1fsPox1DWPoK&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000779s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184318','139988450220161119184317') [ RunTime:0.018349s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184318','139988450220161119184318','123456789','NATIVE') [ RunTime:0.000336s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'20161119184318','139988450220161119184318','123456789','NATIVE')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006694s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000380s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-11-19T18:47:58+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-11-19T18:48:00+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001YWq5T1lBZJ911Fl4T1aqh5T1YWq5T&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000803s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184800','139988450220161119184759','123456789','NATIVE') [ RunTime:0.013464s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184800','139988450220161119184800') [ RunTime:0.000316s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184800','139988450220161119184800')
+ERR: 参数错误
+
+[ 2016-11-19T18:48:05+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-11-19T18:48:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031HDTyE0PGsgg2f9VyE0BNVyE0HDTy8&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000806s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184807','139988450220161119184806','123456789','NATIVE') [ RunTime:0.021587s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184807','139988450220161119184807') [ RunTime:0.000352s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184807','139988450220161119184807')
+ERR: 参数错误
+
+[ 2016-11-19T18:48:11+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-11-19T18:48:13+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001VztKi2FHuCG0PEVKi2iUzKi2VztKo&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.001010s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184813','139988450220161119184812','123456789','NATIVE') [ RunTime:0.016120s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184813','139988450220161119184813') [ RunTime:0.000322s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184813','139988450220161119184813')
+ERR: 参数错误
+
+[ 2016-11-19T18:48:19+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-11-19T18:48:21+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=0413bCGj1k9z3A0Y6rIj1DpsGj13bCGY&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000815s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184820','139988450220161119184820','123456789','NATIVE') [ RunTime:0.020471s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184821','139988450220161119184820') [ RunTime:0.000409s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184821','139988450220161119184820')
+ERR: 参数错误
+
+[ 2016-11-19T18:48:30+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-19T18:48:31+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031ybhoe0UPn4y1zQcme0IZ7oe0ybhoC&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.001056s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184831','139988450220161119184830','123456789','NATIVE') [ RunTime:0.016719s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184831','139988450220161119184831') [ RunTime:0.000328s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184831','139988450220161119184831')
+ERR: 参数错误
+
+[ 2016-11-19T18:49:05+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-11-19T18:49:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031rzC680064XJ1XVM980M2t680rzC6t&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000966s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184906','139988450220161119184906','123456789','NATIVE') [ RunTime:0.020228s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184907','139988450220161119184906') [ RunTime:0.000310s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184907','139988450220161119184906')
+ERR: 参数错误
+
+[ 2016-11-19T18:49:11+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-19T18:49:13+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=021Dt0uN1gfWQ31BhXxN1Xk8uN1Dt0uv&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000822s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184912','139988450220161119184912','123456789','NATIVE') [ RunTime:0.015518s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184913','139988450220161119184913') [ RunTime:0.000313s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184913','139988450220161119184913')
+ERR: 参数错误
+
+[ 2016-11-19T18:49:35+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-11-19T18:49:37+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041WvlfL09vf4520iNdL0PrjfL0Wvlfw&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000791s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119184936','139988450220161119184936','123456789','NATIVE') [ RunTime:0.016620s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184937','139988450220161119184936') [ RunTime:0.000329s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119184937','139988450220161119184936')
+ERR: 参数错误
+
+[ 2016-11-19T18:51:21+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-11-19T18:51:22+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011sxlOL11lib21YtBQL1OQiOL1sxlOX&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000819s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119185122','139988450220161119185121','123456789','NATIVE') [ RunTime:0.016379s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185122','139988450220161119185122') [ RunTime:0.000368s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185122','139988450220161119185122')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006668s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000336s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001529s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000615s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-11-19T18:56:34+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-11-19T18:56:35+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=001CjCEC1WirF00TgRDC12otEC1CjCEX&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000773s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119185635','139988450220161119185634','123456789','NATIVE') [ RunTime:0.020867s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185635','139988450220161119185635') [ RunTime:0.000324s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185635','139988450220161119185635')
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006722s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000352s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001588s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000560s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-19T18:58:33+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-11-19T18:58:34+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=011jhrEm1Qirhl01FWBm1TywEm1jhrEK&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000985s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185834','139988450220161119185834') [ RunTime:0.136789s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: url2 /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 53 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006846s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000354s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000349s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000562s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-11-19T18:59:07+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-19T18:59:09+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=031GNujO1q7gP411v9jO11fwjO1GNujt&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000806s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119185909','139988450220161119185908','123456789','NATIVE') [ RunTime:0.026219s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185909','139988450220161119185909') [ RunTime:0.000336s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185909','139988450220161119185909')
+ERR: 参数错误
+
+[ 2016-11-19T18:59:45+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-11-19T18:59:46+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041mpU9g15qvOw0dGJ9g1MCaag1mpU9u&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000953s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119185946','139988450220161119185945','123456789','NATIVE') [ RunTime:0.019041s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+NOTIC: [8] Undefined index: openid /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 143 行.
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185946','139988450220161119185946') [ RunTime:0.000312s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`trade_type`,`time_start`,`out_trade_no`) VALUES (null,'陈庆杰',0,'15501523654','car','常熟',100,'JSAPI','20161119185946','139988450220161119185946')
+ERR: 参数错误
+
+[ 2016-11-19T19:00:17+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-11-19T19:00:19+08:00 ] 121.228.250.208 /Ucar/index.php?m=Wxpay&a=indexm=Wxpay&a=index&code=041GB8db2K05xR0gogdb2Jggdb2GB8dL&state=STATE
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8] Undefined property: JsApiPay::$curl_timeout /home/wwwroot/default/Ucar/ThinkPHP/Extend/Vendor/wxpay/example/WxPayJsApiPay.php 第 126 行.
+SQL: SHOW COLUMNS FROM `yanzhengzhifu` [ RunTime:0.000775s ]
+SQL: INSERT INTO `yanzhengzhifu` (`openid`,`name`,`flag`,`phone`,`good`,`place`,`dingjin`,`time_start`,`out_trade_no`,`product_id`,`trade_type`) VALUES ('o-_sFwPcmsWQM8O5m4GHD9BjAEjM','陈庆杰',0,'15501523654','car','常熟',100,'20161119190019','139988450220161119190018','123456789','NATIVE') [ RunTime:0.021818s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data /home/wwwroot/default/Ucar/Runtime/Cache/bc4b31955f9e88bc9b0c7533f75733d3.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007311s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000366s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000345s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001564s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000606s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-11-19T23:17:00+08:00 ] 122.192.15.248 /Ucar/index.php?m=Phoneshop&a=showphonemap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `baidulogo` [ RunTime:0.000664s ]
+SQL: SELECT * FROM `baidulogo` WHERE ( `flag` = 1 )  [ RunTime:0.000125s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023773s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000386s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000257s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001668s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-11-19T23:17:08+08:00 ] 101.226.89.121 /Ucar/index.php?m=Phone&a=carhave&openid=o71k5w72oL3u1eV8HJRzYgn02eHY
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `userwechatinfo` [ RunTime:0.000724s ]
+SQL: SELECT * FROM `userwechatinfo` WHERE ( `openid` = 'o71k5w72oL3u1eV8HJRzYgn02eHY' )  [ RunTime:0.000135s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006552s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000303s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001641s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000620s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+

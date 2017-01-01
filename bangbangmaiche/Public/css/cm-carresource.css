@@ -1,0 +1,85 @@
+.whole-context .right{
+	width:80%;
+	border:1px solid #ccc;
+	margin-left:5%;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.rtop{
+	width: 97%;
+	height:50px;
+	line-height: 50px;
+	padding-left: 3%;
+	font-size: 22px;
+	font-weight: bold;
+	border-bottom:1px solid #ccc;
+	background-color: #eee;
+}
+.rmiddle{
+	width: 96%;
+	padding:20px 2% 10px;
+}
+/*.rmiddle*/ 
+table{
+	width: 100%;
+	/*color:blue;*/
+	text-align: center;
+	border-collapse: collapse;
+}
+table img{
+	width:100px;
+	height:100px;
+	margin:5px;
+}
+table tr:first-child{
+	height:30px;
+	/*line-height: 30px;*/
+	background-color: #dfd;
+	font-weight: bold;
+
+}
+table td{
+	font-size: 14px;
+	/*height:25px;*/
+	/*line-height: 25px;*/
+	border:1px solid #ddd;
+	padding:8px 0;
+	text-align: center;
+}
+/**/
+/*表格的输入框设置边框为0*/
+table td input{
+	width: 100%;
+	border:0;
+	text-align: center;
+}
+/*所有表格中的按钮*/
+table button{
+	width: 50px;
+	height:25px;
+	border-radius: 5px;
+	color:#eee;
+	background-color: #999;
+}
+
+
+
+td.t1{
+	width:60px ;
+}
+.rbottom{
+	width: 15%;
+	padding-left: 85%;
+	height:20px;
+	line-height: 50px;
+	font-size: 18px;
+	margin-top:10px;
+}
+.rbootm .count{
+	color:#F08619;
+	font-weight: bolder;
+}
+
+
+

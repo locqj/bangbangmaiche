@@ -1,0 +1,3068 @@
+[ 2016-10-19T09:56:56+08:00 ] 58.208.170.73 /Ucar/index.php?Wap
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+ERR: 模板不存在[./Application/Tpl/Index/index.html]
+
+[ 2016-10-19T09:57:19+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006047s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000371s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001562s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000566s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-10-19T09:58:55+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005709s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000363s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000334s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001520s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-10-19T10:01:07+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005721s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000312s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001483s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-10-19T10:01:51+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005513s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000315s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001484s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-10-19T10:02:10+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006157s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000389s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001626s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000637s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-10-19T10:06:04+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005434s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000313s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000325s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001438s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000577s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-10-19T11:14:09+08:00 ] 58.208.170.73 /Ucar/index.php?name=&phone=&want=&sub=%E6%8F%90%E4%BA%A4
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+ERR: 模板不存在[./Application/Tpl/Index/index.html]
+
+[ 2016-10-19T11:14:32+08:00 ] 58.208.170.73 /Ucar/index.php?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+ERR: 模板不存在[./Application/Tpl/Index/index.html]
+
+[ 2016-10-19T11:18:06+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006425s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000348s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000418s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000262s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001645s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000575s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-10-19T11:18:16+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-19T11:18:48+08:00 ] 58.208.170.73 /Ucar/index.php?name=&phone=&want=&sub=%E6%8F%90%E4%BA%A4
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+ERR: 模板不存在[./Application/Tpl/Index/index.html]
+
+[ 2016-10-19T11:20:54+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012797s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000355s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005616s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000568s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-10-19T11:20:55+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-10-19T11:31:42+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005495s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000647s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000334s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000267s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001785s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-10-19T11:32:04+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-10-19T11:32:16+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-10-19T11:32:21+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-10-19T11:32:24+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008280s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000408s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000434s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001915s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000648s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-10-19T11:32:31+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-10-19T11:33:00+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [2] mysql_connect(): Host '115.28.131.227' is not allowed to connect to this MySQL server /home/wwwroot/default/Ucar/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+ERR: Host '115.28.131.227' is not allowed to connect to this MySQL server
+
+[ 2016-10-19T12:11:16+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) /home/wwwroot/default/Ucar/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+ERR: Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-10-19T12:13:05+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000675s ]
+
+[ 2016-10-19T12:16:33+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000667s ]
+
+[ 2016-10-19T12:16:36+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000644s ]
+
+[ 2016-10-19T12:20:14+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000805s ]
+
+[ 2016-10-19T12:21:18+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Use of undefined constant eee - assumed 'eee' /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000867s ]
+
+[ 2016-10-19T12:23:04+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000643s ]
+SQL: INSERT INTO `suggest` (`user_name`,`phone`,`want`) VALUES ('23',3324,'231') [ RunTime:0.043049s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006668s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000368s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001608s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-10-19T12:23:05+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005757s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000312s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001499s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000547s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-10-19T12:50:29+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006687s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000325s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000332s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000286s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001486s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000569s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-10-19T12:53:51+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006652s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000477s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001803s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000669s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-10-19T12:54:22+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000655s ]
+SQL: INSERT INTO `suggest` (`user_name`,`phone`,`want`) VALUES ('将夜',18852951611,'') [ RunTime:0.023025s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006240s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000348s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000240s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001487s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000526s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-10-19T12:54:23+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006119s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000319s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000371s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001507s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-10-19T12:57:21+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_suggest
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000748s ]
+SQL: INSERT INTO `suggest` (`user_name`,`phone`,`want`) VALUES ('将夜',1,'') [ RunTime:0.015037s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006587s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000329s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001517s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000559s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-10-19T12:57:22+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006184s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000332s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000396s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001576s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-19T12:58:21+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `carhave` [ RunTime:0.000689s ]
+SQL: INSERT INTO `carhave` (`name`,`phone`,`price`,`carinfo`) VALUES ('将夜',18852951611,'123万','宝马') [ RunTime:0.021119s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006802s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000370s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000332s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001554s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000591s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-10-19T12:58:22+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005845s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000349s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000345s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001505s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000521s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-10-19T13:31:23+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006181s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000363s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000351s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001565s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000649s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-10-19T13:31:33+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_carhave&openid=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `carhave` [ RunTime:0.000712s ]
+SQL: INSERT INTO `carhave` (`carhave_name`,`name`,`phone`,`price`,`carinfo`) VALUES ('','223',54545,'234','334') [ RunTime:0.019384s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006383s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000353s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001514s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-10-19T13:31:34+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006295s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000432s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000360s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001629s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000573s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-10-19T13:34:02+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_carhave&openid=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `carhave` [ RunTime:0.000786s ]
+SQL: INSERT INTO `carhave` (`carhave_name`,`name`,`phone`,`price`,`carinfo`) VALUES ('','345',32234,'343434','24') [ RunTime:0.041139s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006518s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000349s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001604s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000594s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-10-19T13:34:03+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006170s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000338s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001511s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000607s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-10-19T13:35:32+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=sub_carhave&openid=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `carhave` [ RunTime:0.000742s ]
+SQL: INSERT INTO `carhave` (`carhave_name`,`name`,`phone`,`price`,`carinfo`) VALUES ('','23',43,'34435','1324') [ RunTime:0.020516s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006873s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000267s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001508s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000605s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-19T13:35:33+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000343s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000329s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000242s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000902s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000969s ]
+
+[ 2016-10-19T13:47:15+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=carhave
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005589s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000318s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001458s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-10-19T14:28:52+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000542s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+SQL: SELECT `tel` FROM `user` WHERE ( `openid` = '11' )  [ RunTime:0.000154s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SELECT `tel` FROM `user` WHERE ( `openid` = '11' ) 
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000575s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000268s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,7   [ RunTime:0.000256s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 17 行.
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 17 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [8] Undefined index: username /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 17 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007219s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000379s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-10-19T14:30:58+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000629s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+SQL: SELECT `tel` FROM `user` WHERE ( `openid` = '11' )  [ RunTime:0.000176s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SELECT `tel` FROM `user` WHERE ( `openid` = '11' ) 
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000800s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000119s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000311s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006894s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000453s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000332s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001602s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000595s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-10-19T14:32:51+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000551s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+SQL: SELECT `tel` FROM `user` WHERE ( `openid` = '1' )  [ RunTime:0.000154s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SELECT `tel` FROM `user` WHERE ( `openid` = '1' ) 
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000505s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000110s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000103s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006643s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000319s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000753s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000392s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002264s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000623s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-10-19T14:32:53+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000558s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+SQL: SELECT `tel` FROM `user` WHERE ( `openid` = '1' )  [ RunTime:0.000159s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SELECT `tel` FROM `user` WHERE ( `openid` = '1' ) 
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000693s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000115s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000102s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009894s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000406s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000337s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001638s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000616s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-10-19T14:33:28+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000515s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+SQL: SELECT `tel` FROM `user` WHERE ( `openid` = '1' )  [ RunTime:0.000150s ]
+ERR: 1146:Table 'Ucar.user' doesn't exist
+ [ SQL语句 ] : SELECT `tel` FROM `user` WHERE ( `openid` = '1' ) 
+
+[ 2016-10-19T14:33:49+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000723s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000299s ]
+
+[ 2016-10-19T14:34:22+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000636s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000135s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000532s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000103s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000124s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007123s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000320s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000395s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000531s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-10-19T14:34:24+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000736s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000111s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.006781s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007085s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000374s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000322s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001697s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-10-19T14:34:58+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000654s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000573s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000117s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000151s ]
+
+[ 2016-10-19T14:36:47+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000640s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000513s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000104s ]
+
+[ 2016-10-19T14:36:48+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000606s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000131s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000501s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000100s ]
+
+[ 2016-10-19T14:38:14+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000623s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000136s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000507s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` LIMIT 0,7   [ RunTime:0.000104s ]
+
+[ 2016-10-19T14:38:55+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000633s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000142s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000123s ]
+
+[ 2016-10-19T14:38:57+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000627s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000116s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000474s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000100s ]
+
+[ 2016-10-19T14:39:53+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000737s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000539s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null )  [ RunTime:0.000339s ]
+
+[ 2016-10-19T14:39:55+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000795s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000136s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000479s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 39 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null )  [ RunTime:0.000101s ]
+
+[ 2016-10-19T14:40:49+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000648s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000486s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000116s ]
+NOTIC: [8] Undefined index: tel /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 40 行.
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = null ) LIMIT 0,7   [ RunTime:0.000102s ]
+
+[ 2016-10-19T14:41:46+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000620s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000132s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000502s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000093s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000331s ]
+
+[ 2016-10-19T14:42:09+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000649s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000480s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000106s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007170s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001516s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000547s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-10-19T14:43:20+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-10-19T14:43:34+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000651s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000516s ]
+NOTIC: [8] Undefined variable: where1 /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 36 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000096s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000117s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007277s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000325s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001605s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000615s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-10-19T14:43:36+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000621s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000500s ]
+NOTIC: [8] Undefined variable: where1 /home/wwwroot/default/Ucar/Application/Lib/Action/WapAction.class.php 第 36 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000097s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000124s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006792s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000318s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000325s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001448s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000631s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-10-19T14:45:05+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000657s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000519s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000306s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007729s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000338s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001750s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000557s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-10-19T14:46:43+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000662s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000474s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000306s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000458s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007901s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000355s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001497s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-10-19T14:46:48+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000667s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000605s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000099s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000140s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008024s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000527s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000415s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000259s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001880s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-10-19T14:48:10+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000652s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000475s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000096s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000104s ]
+
+[ 2016-10-19T14:50:28+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000607s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000143s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000508s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000118s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008362s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000524s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001720s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-10-19T14:59:44+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `think` [ RunTime:0.000556s ]
+ERR: 1146:Table 'Ucar.think' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think`
+SQL: SELECT COUNT(*) AS tp_count FROM `think` LIMIT 1   [ RunTime:0.000150s ]
+ERR: 1146:Table 'Ucar.think' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `think` LIMIT 1  
+SQL: SELECT * FROM `think` LIMIT 0,7   [ RunTime:0.000133s ]
+ERR: 1146:Table 'Ucar.think' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think` LIMIT 0,7  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007737s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000402s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000429s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000260s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001737s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-10-19T15:00:25+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000677s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000286s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,7   [ RunTime:0.000226s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007775s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000360s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000340s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001542s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000605s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-10-19T15:02:01+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000653s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000478s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000310s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007485s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000380s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-10-19T15:02:35+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000650s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000473s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000286s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,7   [ RunTime:0.000245s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007519s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000372s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001547s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-10-19T15:03:08+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000652s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000141s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000558s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000126s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000349s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007548s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000341s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001543s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-10-19T15:03:10+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000699s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000116s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000496s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000095s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 3,3   [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007477s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000363s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000570s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-10-19T15:03:11+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000662s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000508s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000103s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 19 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007739s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000337s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001578s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000719s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-10-19T15:12:46+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000662s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000479s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000098s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000108s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007961s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000349s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001500s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000576s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-10-19T15:16:18+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000806s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000155s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000567s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000318s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000240s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008394s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001540s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000530s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-10-19T15:21:04+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000643s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000130s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000523s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000301s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007768s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000343s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001494s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000584s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-10-19T15:21:06+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescout&id=1&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+ERR: 非法操作:judgescout
+
+[ 2016-10-19T15:22:34+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000639s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000129s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000501s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 1   [ RunTime:0.000097s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007856s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000343s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000603s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-10-19T15:22:37+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescount&id=1&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000701s ]
+SQL: UPDATE `suggest` SET `id`=1,`usersay`='good',`flag`=0 WHERE ( `id` = 1 ) [ RunTime:0.017932s ]
+
+[ 2016-10-19T15:26:11+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000652s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000589s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000336s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008028s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000370s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000515s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000268s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001821s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000644s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-10-19T15:28:51+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000626s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000109s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007878s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000374s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001551s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000553s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-10-19T15:28:53+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescount&id=4&content=bad
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000759s ]
+SQL: UPDATE `suggest` SET `id`=4,`usersay`='bad',`flag`=0 WHERE ( `id` = 4 ) [ RunTime:0.018092s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006373s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000347s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000328s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000576s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-10-19T15:28:54+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000656s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000822s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000350s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008197s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000330s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000400s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001592s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000668s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-10-19T15:28:57+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescount&id=5&content=bad
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000689s ]
+SQL: UPDATE `suggest` SET `id`=5,`usersay`='bad',`flag`=0 WHERE ( `id` = 5 ) [ RunTime:0.018933s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006231s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000329s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000565s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-19T15:28:58+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000682s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000547s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000328s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000254s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009334s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000532s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000388s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000410s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001912s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000567s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-10-19T15:52:26+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000707s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000482s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000098s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000106s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007722s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000331s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001499s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000526s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-10-19T17:29:47+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000712s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000506s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000097s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008164s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000361s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001506s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000596s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-10-19T17:32:55+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescount&id=6&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000678s ]
+SQL: UPDATE `suggest` SET `id`=6,`usersay`='good',`flag`=0 WHERE ( `id` = 6 ) [ RunTime:0.066066s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006626s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001527s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000606s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-19T17:32:56+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000650s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000133s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000518s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000350s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008100s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000402s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001862s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000841s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000916s ]
+
+[ 2016-10-19T17:34:17+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=judgescount&id=7&content=ok
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000853s ]
+SQL: UPDATE `suggest` SET `id`=7,`usersay`='ok',`flag`=0 WHERE ( `id` = 7 ) [ RunTime:0.023242s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007954s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000336s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001498s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-10-19T17:34:18+08:00 ] 58.208.170.73 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000718s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000128s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000597s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000344s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007964s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000332s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000275s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001543s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000562s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-10-19T17:45:47+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-10-19T17:46:09+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-10-19T17:46:40+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012864s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000403s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000346s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000411s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001767s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000602s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-19T17:48:20+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013552s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000484s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000368s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001708s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000613s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-10-19T17:48:22+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012738s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000409s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000344s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001591s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000668s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-10-19T17:48:30+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014073s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000431s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000352s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001802s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000538s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-10-19T17:50:29+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012994s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000372s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000574s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-10-19T17:53:10+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012538s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000345s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001601s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-10-19T17:54:29+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012842s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000490s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000390s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001836s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000555s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-10-19T17:59:43+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017629s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000453s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000351s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000268s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001645s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000593s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-10-19T18:03:29+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012843s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000434s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001634s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000591s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-10-19T18:03:42+08:00 ] 58.208.170.73 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012685s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000425s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000422s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001718s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-10-19T21:17:04+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014066s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000614s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000367s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000254s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001907s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000586s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-19T21:17:58+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013833s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000428s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000285s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001775s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-10-19T21:20:13+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012661s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000392s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000348s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000307s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001659s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-10-19T21:24:19+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012796s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000429s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000314s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001739s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000627s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-10-19T21:24:21+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013502s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000454s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001754s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000790s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2016-10-19T21:28:17+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012935s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000413s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000382s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001677s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000575s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-10-19T21:30:55+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013157s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000449s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000349s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001637s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000597s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-10-19T21:33:21+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014604s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000446s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000372s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001674s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-10-19T21:34:38+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013150s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000414s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000367s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000362s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-10-19T21:34:41+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013392s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000445s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000352s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001673s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-19T21:37:16+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000688s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000534s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000102s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008117s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000275s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-10-19T21:37:31+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013859s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000561s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000687s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-10-19T21:39:12+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012483s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000346s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001629s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000539s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-10-19T21:41:44+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012889s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000467s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000357s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001676s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-10-19T21:42:29+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012871s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001633s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-10-19T21:45:23+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012988s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000437s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000368s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001668s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000567s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-10-19T21:45:44+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013428s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000469s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001689s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000602s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-10-19T21:46:15+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013087s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000461s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000352s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001654s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000623s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-10-19T21:49:40+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013414s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000497s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000407s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001821s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000587s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-10-19T21:55:20+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013544s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000501s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000588s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002026s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000634s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-10-19T21:56:53+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013990s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000463s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002003s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000559s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-19T22:00:01+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013696s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001878s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000570s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-10-19T22:00:16+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013167s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000421s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000350s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-10-19T22:02:12+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000632s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000515s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000097s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000124s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007706s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000434s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000340s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001611s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000556s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-10-19T22:02:35+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013600s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000553s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001811s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000599s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-10-19T22:02:37+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013088s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000428s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000373s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001656s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000600s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-10-19T22:03:49+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012908s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000444s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001659s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-19T22:03:51+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012880s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000394s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000260s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001572s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-10-19T22:04:13+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013804s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000719s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000412s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000288s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002088s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-10-19T22:08:37+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014245s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000464s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000354s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000267s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001666s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000618s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-10-19T22:08:39+08:00 ] 58.211.70.227 /Ucar/index.php?m=Admin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013194s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000431s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000369s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000241s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001623s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-10-19T22:29:28+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=userjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.000795s ]
+SQL: SELECT `tel` FROM `userinfo` WHERE ( `openid` = '1' )  [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000494s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 1   [ RunTime:0.000097s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) AND ( `flag` = 1 ) LIMIT 0,3   [ RunTime:0.000102s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c34fa9997a5a0eb3cbf2e24ae79ae9f0.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007462s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000331s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000258s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001521s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-10-19T22:29:34+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+ERR: 非法操作:adminjudge
+
+[ 2016-10-19T22:29:59+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000676s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000300s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000215s ]
+ERR: 模板不存在[./Application/Tpl/Wap/adminjudge.html]
+
+[ 2016-10-19T22:30:30+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000684s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000113s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000100s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008021s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000339s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000330s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000643s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-10-19T22:30:33+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000688s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000114s ]
+SQL: SELECT * FROM `suggest` LIMIT 3,3   [ RunTime:0.000287s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007871s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000325s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000304s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001565s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000713s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-10-19T22:30:35+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=3
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000743s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000128s ]
+SQL: SELECT * FROM `suggest` LIMIT 6,3   [ RunTime:0.000305s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008057s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000468s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000436s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001786s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-10-19T22:30:37+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000679s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000115s ]
+SQL: SELECT * FROM `suggest` LIMIT 3,3   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007914s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000339s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000280s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001521s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-10-19T22:30:38+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000758s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000132s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000126s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009205s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000341s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001696s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000532s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-10-19T22:36:23+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-10-19T22:36:49+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000709s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000296s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007956s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000347s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000395s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000242s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-10-19T22:36:51+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=1&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000702s ]
+SQL: UPDATE `suggest` SET `id`=1,`usersay`='good',`flag1`=0 WHERE ( `id` = 1 ) [ RunTime:0.018422s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000335s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-10-19T22:36:52+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000774s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000296s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007992s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000333s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001650s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-10-19T22:39:57+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000779s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000125s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008023s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000434s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000285s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001701s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-10-19T22:40:01+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=1&content=ok
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000968s ]
+SQL: UPDATE `suggest` SET `id`=1,`usersay`='ok',`flag1`=0 WHERE ( `id` = 1 ) [ RunTime:0.021452s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006531s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000331s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001524s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000558s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-10-19T22:40:02+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000694s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000277s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000219s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007604s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000328s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000357s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001471s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-10-19T22:41:18+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000734s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000122s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000106s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007712s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000396s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001545s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000587s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-10-19T22:41:21+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=1&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000710s ]
+SQL: UPDATE `suggest` SET `id`=1,`adminsay`='good',`flag1`=0 WHERE ( `id` = 1 ) [ RunTime:0.022481s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006592s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000433s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000538s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-10-19T22:41:22+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000712s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000277s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000218s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007883s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000363s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001595s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000616s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-10-19T22:44:49+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000740s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000113s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007978s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001524s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-10-19T22:44:54+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=4&content=good
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000833s ]
+SQL: UPDATE `suggest` SET `id`=4,`adminsay`='good',`flag1`=0 WHERE ( `id` = 4 ) [ RunTime:0.024053s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007310s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000358s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001562s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000603s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-10-19T22:44:55+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000700s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000262s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000314s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008777s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000374s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000325s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001665s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000598s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-10-19T22:45:45+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000707s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000133s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007769s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000347s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000334s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001526s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000526s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-10-19T22:46:13+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000737s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000115s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008586s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000381s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000294s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001721s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000895s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2016-10-19T22:46:15+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000815s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000116s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007906s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001508s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000635s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-10-19T22:48:40+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000671s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000111s ]
+SQL: SELECT * FROM `suggest` LIMIT 0,3   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007823s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000326s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000258s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001501s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000591s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-10-19T22:50:03+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000767s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000148s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000347s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008496s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000339s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001546s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000551s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-10-19T22:50:10+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=5&content=ok
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000717s ]
+SQL: UPDATE `suggest` SET `id`=5,`adminsay`='ok',`flag1`=0 WHERE ( `id` = 5 ) [ RunTime:0.035436s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006551s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000393s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000332s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000263s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000589s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-10-19T22:50:11+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000672s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000278s ]
+SQL: SELECT * FROM `suggest` WHERE ( `phone` = '18068502373' ) LIMIT 0,3   [ RunTime:0.000263s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000348s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000329s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000242s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001487s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-10-19T22:52:28+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000852s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000120s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000319s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007994s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000330s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000400s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001521s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-10-19T22:52:31+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudgescount&id=6&content=bad
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000816s ]
+SQL: UPDATE `suggest` SET `id`=6,`adminsay`='bad',`flag1`=0 WHERE ( `id` = 6 ) [ RunTime:0.026487s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006963s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000355s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001507s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-10-19T22:52:32+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000695s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000297s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008075s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000363s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001518s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-10-19T22:52:41+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000708s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000218s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 3,3   [ RunTime:0.000375s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008185s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000367s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000375s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000289s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000690s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-10-19T22:52:42+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=3
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000711s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000112s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 6,3   [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007327s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000331s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000288s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001564s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000577s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-10-19T22:52:44+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=2
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000680s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000114s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 3,3   [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007924s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000329s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000372s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001532s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-10-19T22:52:46+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000815s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` LIMIT 1   [ RunTime:0.000135s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000107s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007848s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000328s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000339s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001531s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-10-19T22:54:07+08:00 ] 58.211.70.227 /Ucar/index.php?m=Wap&a=adminjudge&p=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `suggest` [ RunTime:0.000715s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 1   [ RunTime:0.000320s ]
+SQL: SELECT * FROM `suggest` WHERE ( `flag1` = 1 ) LIMIT 0,3   [ RunTime:0.000130s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+NOTIC: [2] date() expects parameter 2 to be long, string given /home/wwwroot/default/Ucar/Runtime/Cache/c2f529bf83b3d0a883e6ebd08dd98333.php 第 22 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008286s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000411s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000346s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001720s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000610s ]
+

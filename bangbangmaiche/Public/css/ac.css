@@ -1,0 +1,85 @@
+.upimg input[type='file']{
+	width: 150px;
+	
+}
+.upimg button{
+	width: 80px;
+	font-size: 12px;
+	height:16px;
+	display: block;
+	margin-left: 50px;
+}
+
+.right h3{
+		height:50px;
+	line-height: 50px;
+	padding-left: 3%;
+	font-size: 22px;
+	font-weight: bold;
+	border-bottom:1px solid #ccc;
+	background-color: #eee;
+}
+
+.right-context p span{
+	display: inline-block;
+	font-size: 20px;
+	margin:25px auto 8px; 
+}
+.right-context table.rightmain{
+	width: 98%;
+	text-align: center;
+	margin-left: 10px;
+	border-collapse: collapse;
+}
+.right-context table td{
+	font-size: 12px;
+	/*font-size: 16px;*/
+	padding:8px 0; 
+}
+.right-context td input{
+ 
+	font-size: 16px;
+}
+form{
+	text-align: center;
+	margin:20px auto;
+}
+form input[type='submit']{
+	width: 140px;
+	height:40px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: bold;
+	background-color: #F08619;
+	border-radius: 12px;
+}
+
+#editor{
+	/*width: 98%;*/
+	margin:0 1%; 
+}
+
+.shuru input{
+	width: 90%;
+	border:1px solid #eee;
+}
+.shuru input[type='file']{
+	border: 0;
+	font-size: 14px;
+}
+
+
+/*修改*/
+.lf{
+	width:48%;
+	display: inline-block;
+}
+.lf span,
+.rg span{
+	width:25%;
+	/*color:red;*/
+}
+.rg{
+	width:48%;
+	display: inline-block;
+}

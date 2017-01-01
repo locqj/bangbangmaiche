@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<script src='../../js/jquery-1.4.2.min.js'></script>
+	<script src='../../js/angular.min.js'></script>
+	<title>帮帮买车之记录查询</title>
+	<link rel="stylesheet" href="../../css/public.css">
+	<script src='../../js/header.js'></script>
+	<link rel="stylesheet" href="../../css/form.css">
+	<!-- <link rel="stylesheet" href="../../css/recordquery.css"> -->
+	<script src='../../js/recordquery.js'></script>
+
+	<link rel="stylesheet" href="../../css/active.css">
+</head>
+<body ng-app='myapp' ng-controller='myctrl'>
+	<!-- <div ng-include=" 'header.html' "></div> -->
+	<div class="container">
+		<div class="record">
+			<div class="re-top">
+				<div class="re-toplf"><a href="javascript:void(0)">最新活动</a></div>
+				<div class="re-toprg" style="margin-left:-3%;">
+					<a href="javascript:void(0)">往期活动</a>
+				</div>
+			</div>
+			<div class="re-middle user">
+				<ul>
+					<li>	
+						<a href="three-active-latest.html">	
+							<div class="image"><img src="" alt=""></div>
+							<div class="lf ">		
+								<div><span>活动名称:</span> </div>
+								<div><span>活动时间:</span> </div>
+							</div>
+							<div class="rg ">
+								<i class="iconfont">&#xe601;</i>
+							</div>
+							<!-- <div class="clear"></div> -->
+						</a>
+					</li>		
+				</ul>
+
+				<div class="count">共<span class="num"></span>条记录</div>
+			</div>
+			<div class="re-middle ucar">
+				<ul>
+					<li>	
+						<a href="three-active-before.html">	
+							<div class="image"><img src="" alt=""></div>
+							<div class="lf ">		
+								<div><span>活动名称:</span> </div>
+								<div><span>活动时间:</span> </div>
+							</div>
+							<div class="rg ">
+								<i class="iconfont">&#xe601;</i>
+							</div>
+							<!-- <div class="clear"></div> -->
+						</a>
+					</li>		
+				</ul>
+				<div class="count">共<span class="num"></span>条记录</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
